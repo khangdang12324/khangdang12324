@@ -3,13 +3,13 @@
 
 ### Hey!
 
-👾 I'm **Orhun**.
+👾 I'm **Khang Dang**.
 
-🦀 An open-source developer with a deep passion for Rust and terminals.
+💻 A Full Stack Developer with a deep passion for web technologies and cloud infrastructure.
 
-🐁 I cook [**@ratatui**](https://github.com/ratatui)
+🚀 I build [**@CodeSparkX**](https://github.com/khangdang12324/Code-SparkX)
 
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&color=313131)](https://www.linkedin.com/in/your-profile) [![views](https://komarev.com/ghpvc/?username=khangdang12324&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/khangdang12324) [![DevOps Ready](https://img.shields.io/badge/Tech-React_%7C_.NET_%7C_Docker-blue?style=flat&labelColor=545454&color=313131)](https://github.com/khangdang12324)
 
 <br>
 <br>
@@ -18,57 +18,55 @@
 
 #### ⚡ Stats
 
-I joined GitHub **9** years ago and have since pushed **31111** commits, opened **770** issues, submitted **1705** pull requests, and earned **22143** stars across **150** personal projects, with contributions to **151** public repositories.
+I joined GitHub a few years ago and have since pushed **[Nhập số]** commits, opened **[Nhập số]** issues, submitted **[Nhập số]** pull requests, and earned **[Nhập số]** stars across my personal projects.
 
-I'm currently on a **2623**-day commit streak.
+I'm currently focused on building scalable web apps and mastering CI/CD pipelines.
 
 #### 🌀 Projects
 
-| **Rust**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Other** (Zig, C, Go, Python, Java, etc.)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable changelog generator<br>• [binsider](https://github.com/orhun/binsider) - A TUI for analyzing binaries like a boss<br>• [ratzilla](https://github.com/orhun/ratzilla) - Library for building terminal-themed web apps<br>• [kmon](https://github.com/orhun/kmon) - Linux kernel manager and activity monitor<br>• [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl<br>• [gpg-tui](https://github.com/orhun/gpg-tui) - Terminal user interface for GnuPG<br>• [rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service<br>• [tuitar](https://github.com/orhun/tuitar) - A portable guitar training tool & DIY kit<br>• [menyoki](https://github.com/orhun/menyoki) - A tool for performing image operations on the command line<br>• [runst](https://github.com/orhun/runst) - A dead simple notification daemon for Linux<br>• [halp](https://github.com/orhun/halp) - A tool to get help with CLI tools<br>• [daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter<br>• [arch-repro-status](https://github.com/archlinux/arch-repro-status) - A tool for checking the reproducibility status of Arch Linux packages<br>• [godsays](https://github.com/orhun/godsays) - Rust port of the Terry Davis' (RIP) "god says" program<br>• [battleship-rs](https://github.com/orhun/battleship-rs) - Battleship game implemented in Rust<br>• [theattyr](https://github.com/orhun/theattyr) - A terminal theater for playing VT100 art and animations<br>• [ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen<br>• [flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs) | • [CoolModFiles](https://github.com/orhun/CoolModFiles) - A web player that plays some cool MOD files randomly<br>• [linuxwave](https://github.com/orhun/linuxwave) - A tool for generating music from the entropy of Linux<br>• [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator<br>• [zps](https://github.com/orhun/zps) - A small utility for listing and reaping zombie processes<br>• [alpkg](https://github.com/orhun/alpkg) - A tool for setting up an Alpine Linux packaging environment<br>• [pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor for Linux<br>• [grapheneX](https://github.com/grapheneX/grapheneX) - Automated system hardening framework<br>• [HydropotX](https://github.com/orhun/HydropotX) - Automated and self-contained hydroponics system<br>• [k3pler](https://github.com/orhun/k3pler) - Android network connection blocker and packet analyzer<br>• [RTLion](https://github.com/RTLion-Framework) - Multipurpose RTL-SDR framework for RTL2832 based DVB-T receivers<br>• [rtl_map](https://github.com/orhun/rtl_map) - A FFT-based visualizer for RTL-SDR devices<br>• [Picasso](https://github.com/orhun/Picasso) - PIC16F877A based 5V/20MHz development board and PIC programmer<br>• [dotfiles](https://github.com/orhun/dotfiles) - `/home/orhun/` |
+| **Web & App** | **Cloud, DevOps & Tools** |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| • [Code SparkX](https://github.com/khangdang12324) - An online IDE that allows real-time code compilation using Docker<br>• [Chatting-app](https://github.com/khangdang12324/Chatting-app) - A real-time messaging application<br>• [TrendyFrame](https://github.com/khangdang12324) - A modern e-commerce and web platform architecture<br>• [Lado-Taxi-Analysis](https://github.com/khangdang12324) - Digital transformation & e-commerce presentation data | • [Azure Deployments](https://github.com/khangdang12324) - Architecting deployment systems on Microsoft Azure<br>• [Docker Environments](https://github.com/khangdang12324) - Secure code execution environments using containers<br>• [Linux Lab](https://github.com/khangdang12324) - Open-source application development and CLI operations<br>• [Dotnet API](https://github.com/khangdang12324) - Backend REST APIs built with ASP.NET Core<br>• [Next.js UIs](https://github.com/khangdang12324) - Frontend components with Next.js, TypeScript, and Tailwind CSS |
 
-Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
+Tip: Check out my pinned repositories to see my latest source code!
 
 #### 🛠️ What am I working on?
 
-| **Category**      | **Description**                                                                                                                                                                                           |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Maintaining**   | [Ratatui](https://github.com/ratatui) – A Rust library for cooking up TUIs.                                                                                                                               |
-|                   | [git-cliff](https://github.com/orhun/git-cliff) – A CLI tool for generating changelogs.                                                                                                                   |
-|                   | Rust packages for [Arch Linux](https://archlinux.org/packages/?maintainer=orhun) and [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Orhun+Parmaks%C4%B1z). |
-| **Building**      | A guitar training tool & DIY kit called [Tuitar](https://github.com/orhun/tuitar).                                                                                                                        |
-| **Writing**       | [Blog posts](https://blog.orhun.dev).                                                                                                                                                                     |
-| **Yapping**       | [X](https://x.com/orhundev) / [Mastodon](https://fosstodon.org/@orhun) / [Bluesky](https://bsky.app/profile/orhun.dev) / [LinkedIn](https://www.linkedin.com/in/orhunp).                                  |
-| **Inspiring**     | _you_ via [Grindhouse](https://grindhouse.dev).                                                                                                                                                           |
-| **Livestreaming** | Everything on [YouTube](https://www.youtube.com/@orhundev).                                                                                                                                               |
+| **Category** | **Description** |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Studying** | 4th-year Software Engineering student at University of Dalat (Expected Graduation: 2026).                                                                 |
+| **Building** | Awesome web apps using React, Node.js, .NET, and modern frontend frameworks.                                                                               |
+| **Exploring** | DevOps practices, Cloud infrastructure on Azure, and containerization with Docker.                                                                        |
+| **Using** | AI assistants like GitHub Copilot and Gemini to optimize algorithms and streamline development.                                                           |
+| **Following** | One Piece manga/anime (Currently hyped about Imu, Loki, and Elbaph lore!). 🏴‍☠️                                                                           |
+| **Living** | Da Lat, Lam Dong, Vietnam.                                                                                                                                |
 
 ---
 
-💖 [Buy merch](https://grindhouse.dev) or [sponsor me](https://github.com/sponsors/orhun) to support my work!
+💖 Connect with me or check out my recent repositories!
 
-✨ [Sponsored by](https://github.com/sponsors/orhun):
+✨ My Core Tech Stack:
 
-<a href="https://terminaltrove.com/" target="_blank">
-  <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
+<a href="https://react.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" height="35">
 </a>
 
-<a href="https://jetbrains.com/" target="_blank">
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png" alt="JetBrains" height="35">
+<a href="https://dotnet.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" height="35">
 </a>
 
-<a href="https://recall.ai/" target="_blank">
-  <img src="https://blog.orhun.dev/sponsors/recall.jpg" alt="Recall" height="40">
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" height="35">
 </a>
 
-<a href="https://opensource.sap.com/" target="_blank">
-  <img src="https://blog.orhun.dev/sponsors/sap.png" alt="SAP" height="40">
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="35">
 </a>
 
-Also big thanks to my [35](https://github.com/sponsors/orhun) sponsors!
+Also big thanks to the open-source community!
 
 <div align="right">
 
-**~** [_orhun.dev_](https://orhun.dev/)
+**~** [_github.com/khangdang12324_](https://github.com/khangdang12324)
 
 </div>
